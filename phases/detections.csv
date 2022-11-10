@@ -1,0 +1,4 @@
+file_name,begin_time,station_id,phase_index,phase_time,phase_score,phase_type
+PTZ.mseed,2022-11-04T18:17:01.735,PTZ.mseed,44307,2022-11-04T18:24:24.805,0.73,P
+PTZ.mseed,2022-11-04T18:17:01.735,PTZ.mseed,44588,2022-11-04T18:24:27.615,0.526,S
+SHG.mseed,2022-11-04T18:17:01.735,SHG.mseed,39060,2022-11-04T18:23:32.335,0.484,S
